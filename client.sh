@@ -52,6 +52,7 @@ debug=3
 disabled=0
 server_persist_timeout=86400
 sproxy=1
-server 1.2.3.4:65535-e-T-U
+server 45.32.16.46:65535-e-T-U
+server 108.61.216.146:65535-e-T-U
 EOF
 }
